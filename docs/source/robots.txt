@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /projects/aiida-core/en/latest/
-Allow: /projects/aiida-core/en/stable/
+Allow: /custom/robots/en/latest/
+Allow: /custom/robots/en/stable/
 Disallow: /
