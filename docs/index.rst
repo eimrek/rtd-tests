@@ -1,8 +1,3 @@
-Welcome to the Main Project’s Documentation
-===========================================
-
-This page has moved. You will be redirected to the new location shortly.
-
 .. raw:: html
 
     <meta http-equiv="refresh" content="1; url=https://rtd-tests-subproject.readthedocs.io">
