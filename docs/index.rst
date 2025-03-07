@@ -1,3 +1,6 @@
+.. meta::
+   :google-site-verification: CC6gFNx51L8xL5lDKsiWH4RsKsT9AabuCDIXxRofA9s
+
 .. raw:: html
 
     <meta http-equiv="refresh" content="1; url=https://rtd-tests-subproject.readthedocs.io">

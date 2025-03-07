@@ -18,3 +18,7 @@ Based on tutorial: https://docs.readthedocs.io/en/stable/tutorial/
 
 
 Rtd page: https://readthedocs.org/projects/eimrek-rtd-tests/
+
+# Google search console
+
+To add this domain to Google search console, use the HTML meta tag verification and modify `conf.py` accordingly.
